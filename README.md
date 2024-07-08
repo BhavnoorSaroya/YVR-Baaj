@@ -1,7 +1,7 @@
 # Baaj - AI Airport Maintenance Monitoring App
 > An AI-powered vision system designed to enhance passenger experience and optimize operational efficiency at the YVR airport by utilizing machine learning to track passenger volumes and identify maintenance needs in real-time using security cameras.
 
-_Developed by Team Ora for YVR Smart Airport Hackathon 2024. :trophy: Won **1st** place in the hackathon._<br />
+_Developed by Team Ora for YVR Smart Airport Hackathon 2024. :trophy: Won **1st** place in the hackathon._ For more information, read [the news article here.](https://commons.bcit.ca/news/2024/05/yvr-hackathon-2024/)<br />
 
 ## Table of Contents
 * [Screenshots](#screenshots)
