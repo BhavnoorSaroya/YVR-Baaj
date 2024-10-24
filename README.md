@@ -42,6 +42,7 @@ _Developed by Team Ora for YVR Smart Airport Hackathon 2024. :trophy: Won **1st*
 Once Baaj is installed and configured, you can use it to monitor airport maintenance, detect spills, and track passenger volumes.
 
 ## Acknowledgements
+* [Noufil Saqib](https:github.com/noufilsaqib)
 * [Towa Quimbayo](https://github.com/towaquimbayo)
 * [Abhishek Chouhan](https://github.com/abhishekchouhannk)
 * [Mangat Toor](https://github.com/immangat)
